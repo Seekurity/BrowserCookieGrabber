@@ -8,4 +8,4 @@ An AIO bash script to collect and compress cookies files from various browsers (
 
 You should find Cookies.tar on your desktop.
 
-#DON'T USE IT MALICIOUSLY :D
+# DON'T USE IT MALICIOUSLY :D
