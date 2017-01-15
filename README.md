@@ -3,8 +3,8 @@ An AIO bash script to collect and compress cookies files from various browsers (
 
 # Usage
 1. Download the script.
-2. Set executable permissions (chmod +x BrowserCookieGrabber.sh).
-3. Execute (./BrowserCookieGrabber.sh).
+2. Set executable permissions (chmod +x browserCookieGrabber.sh).
+3. Execute (./browserCookieGrabber.sh).
 
 You should find Cookies.tar on your desktop.
 
