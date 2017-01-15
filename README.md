@@ -1,5 +1,5 @@
 # BrowserCookieGrabber
-A bash script to collect and compress cookies files from various browsers (Google Chrome, Canary, Chromium, Mozilla Firefox, Opera, Opera Developers, Opera Neon, Vivaldi, Apple Safari and TOR).
+An AIO bash script to collect and compress cookies files from various browsers (Google Chrome, Canary, Chromium, Mozilla Firefox, Opera, Opera Developers, Opera Neon, Vivaldi, Apple Safari and TOR) for any future use or investigations.
 
 # Usage
 1. Download the script.
@@ -7,3 +7,5 @@ A bash script to collect and compress cookies files from various browsers (Googl
 3. Execute (./BrowserCookieGrabber.sh).
 
 You should find Cookies.tar on your desktop.
+
+#DON'T USE IT MALICIOUSLY :D
